@@ -5,7 +5,7 @@ A fully responsive Flutter Weather App featuring a clean, user-friendly interfac
 ## 📸 Screenshots
 
 ### Home Screen
-![code](Responsive_code.jpg.png)
+![code](code.jpg.png)
 
 
 ## 🎥App-Reponsive- Demo
